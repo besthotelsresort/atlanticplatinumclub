@@ -1,0 +1,2 @@
+# atlanticplatinumclub
+Static site: atlanticplatinumclub
